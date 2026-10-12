@@ -462,3 +462,331 @@ Tools to see what is happening on the mesh.
 | [MeshOMatic](https://map.meshomatic.net/) | Terrain-aware repeater placement planning and topology analysis. |
 | [Reticulum Network Planner](https://github.com/0xSeren/Reticulum-Network-Planner) | *(Applies to all LoRa.)* See [Utilities](#utilities). |
 | [DEALORA](https://github.com/MarkSlusar/DEALORA) | Genetic-algorithm antenna design tool for LoRa devices including MeshCore and Meshtastic. |
+
+
+
+## Guides and Learning
+
+| Resource | Description |
+| :--- | :--- |
+| [Austin Mesh setup guide](https://www.austinmesh.org/join/meshcore-setup/) | Beginner-friendly local setup. |
+| [Bravo.TAKKE.me MeshCore book](https://bravo.takke.me/books/meshcore) | Traditional Chinese guide: quick start, basic setup, firmware types, how MeshCore differs from Meshtastic. |
+| [J-Rat Techworks repeater guide](https://jrattechworks.com/meshcore-repeater-flashing-guide/) | Flashing and repeater setup. |
+| [Kev's Robots MeshCore course](https://www.kevsrobots.com/learn/meshcore/) | Structured tutorial series from basics to flashing. |
+| [LitBomb's MeshCore FAQ](https://github.com/LitBomb/MeshCore-FAQ) | Community FAQ in English and German. |
+| [LocalMesh NL setup guide](https://www.localmesh.nl/en/meshcore-setup/) | Dutch-language beginner guide. |
+| [Mesh America wiki](https://wiki.meshamerica.com/books/meshcore/page/start-here-meshcore-guide) | Guides and protocol overview. |
+| [Mesh Sorocaba configuração](https://www.meshsorocaba.org/configuracao/) | Portuguese-language setup documentation. |
+| [Meshcore region info](https://github.com/luckystriike22/meshcore_region_info) | Reference on MeshCore region codes and how they're used. |
+| [MeshCore Europe getting started](https://meshcoreeurope.org/en/get-started/) | Multilingual introduction. |
+| [MeshCore Europe repeater guide](https://meshcoreeurope.org/en/repeater-guide/) | Repeater deployment walkthrough. |
+| [MeshCore Ninja](https://meshcore.ninja/) | Open catalog of regional networks, devices, firmwares and software. |
+| [NodakMesh wiki](https://nodakmesh.org/meshcore/wiki) | Reference documentation and setup guides. |
+| [ScotMesh getting started](https://wiki.scotmesh.uk/en/MeshCore/getting-started) | Beginner guide from unboxing to the first message. |
+| [Video: MeshCore Quickstart](https://youtube.com/playlist?list=PLshzThxhw4O4WU_iZo3NmNZOv6KMrUuF9) | The comms channel's quickstart playlist. |
+| [Video: How to get started](https://youtu.be/t1qne8uJBAc) | Getting-started walkthrough. |
+| [Why MeshCore needs regions - explained simply](https://kiekr.app/why-regions) | Plain-language explanation of the region system. |
+| [WISSEN TECHNIK podcast](https://wissen-technik-meshcore-meshtastic.podigee.io/) | German-language podcast on MeshCore and Meshtastic. |
+| [DevTrends MeshCore overview](https://devtrends.ru/c/meshcore-dev-meshcore) | Russian-language technical overview covering node roles, memory model and getting started. |
+| [Habr MeshCore series (NanoVHF)](https://habr.com/ru/articles/1056050/) | Russian-language multi-part explainer comparing MeshCore's routing to Meshtastic's flood network. |
+| [LilyGo MeshCore guide (Chinese)](https://wiki.lilygo.cc/zh/open-source/meshcore/) | Chinese-language official guide covering supported devices, roles and firmware flashing. |
+| [MeshCore QuickStart (The Comms Channel)](https://www.youtube.com/playlist?list=PLshzThxhw4O4WU_iZo3NmNZOv6KMrUuF9) | Nine-part video series walking through initial MeshCore setup. |
+| [Seeed Studio ESP32 MeshCore guide (Chinese)](https://wiki.seeedstudio.com/cn/get_started_with_esp32s3_meshcore/) | Chinese-language guide for flashing and configuring the XIAO ESP32S3 repeater. |
+
+
+## Communities
+
+### Africa
+
+#### South Africa
+
+- [LoRa Mesh Comms ZA Discord](https://discord.gg/tKGFwFYvsT) - South African community coordinating Meshtastic and MeshCore repeaters, mainly around Cape Town.
+
+### Asia
+
+#### India
+
+- [r/MeshCoreIndia](https://www.reddit.com/r/MeshCoreIndia/) - Early-stage Indian community sharing regional radio settings.
+
+#### Israel
+
+- [MeshCore Israel](https://meshcore.org.il) - The Israel Meshcore Network.
+
+#### Kazakhstan
+
+- [MeshCore Kazakhstan](https://meshcore.kz/) - National community site.
+
+### Europe
+
+#### Pan-European
+
+- [MeshCore Europe](https://meshcoreeurope.org/) - Multilingual umbrella site with community directory, guides and maps.
+
+#### Austria
+
+- [CarinthiaMesh wiki](https://wiki.carinthiamesh.com/) - Carinthian regional wiki.
+- [MeshCore AT Telegram group](https://t.me/meshcoreat) - Austrian community chat.
+- [MeshCore Austria](https://meshcore.at/) - German-language documentation and setup guides.
+- [MeshCore-Austria.at](https://www.meshcore-austria.at/doku.php?id=start) - German-language community wiki.
+
+#### Belarus
+
+- [MeshNetBY](https://mesh-net.by/) - Belarusian community with MeshCore setup guides and city Telegram groups; also covers Meshtastic.
+
+#### Belgium
+
+- [LoraMesh België](https://www.loramesh.be/) - Emergency communication network.
+- [MeshCore België](https://meshcore.radio-actief.be/) - Community wiki and setup guides.
+- [Meshpot](https://meshpot.be) - French-language, privacy-focused guide for Brussels residents.
+
+#### Bulgaria
+
+- [MeshCore Bulgaria](https://www.meshcore.bg/) - Bulgarian community with map, presets and Telegram group.
+
+#### Czech Republic
+
+- [MeshCore ČR](https://meshcore.cz/) - Czech-language community and documentation.
+
+#### Denmark
+
+- [MeshCore.dk](https://meshcore.dk/) - Danish community hub with setup docs, node map and a Facebook group.
+
+#### Estonia
+
+- [ESTMesh](https://wiki.estmesh.ee/en/home) - Estonian Meshtastic and MeshCore wiki with configuration docs, dashboards and a Discord server.
+
+#### Finland
+
+- [Mesh Pirkanmaa](https://meshpirkanmaa.org/) - Tampere and Pirkanmaa region community.
+
+#### France
+
+- [Île-de-France Mesh](https://wiki.mesh-idf.fr) - Paris region wiki; also covers Meshtastic.
+- [LoraMesh France](https://loramesh.fr/) - French community with regional coverage.
+- [MeshCore France](https://www.meshcore.fr/) - French network coordination.
+- [MeshCore Paris](https://meshcore.paris/) - Paris and Greater Paris region network.
+
+#### Germany
+
+- [BSmesh](https://bsmesh.de/) - Greater Braunschweig network.
+- [HanseMesh](https://hansemesh.de/) - Northern Germany network and tutorials.
+- [IsarMesh](https://isarmesh.de/) - Bavarian community forum.
+- [LocalMesh Deutschland](https://www.localmesh.de/) - German emergency radio network with guides.
+- [Münsterland Mesh](https://mcml.info/) - Münsterland region of North Rhine-Westphalia.
+- [Mesh Dresden](https://meshdresden.eu/) - Dresden and wider Saxony community.
+- [Mesh Rheinland](https://www.meshrheinland.de/) - Rheinland and western Germany community.
+- [MeshCore DE Matrix room](https://matrix.to/#/#meshcore-netzwerk-de:matrix.org) - German community chat.
+- [MeshCore DE Telegram group](https://t.me/meshcorede) - German community chat.
+- [MeshCore Deutschland wiki](https://meshcore-de.fyi/) - German-language wiki hub with setup guides and regional group directory.
+- [MeshCore Dresden](https://loramesh-dresden.de/) - Dresden network.
+- [MeshCore Essen-Kettwig](https://jonathansalim.de/) - Public network around Essen-Kettwig in the Ruhr area.
+- [MeshMitte](https://msh3.de/) - Central Germany community.
+- [SaarMesh](https://saarmesh.de/) - Saarland regional network.
+
+#### Greece
+
+- [MeshCore Greece Discord](https://discord.gg/6KSQBqaTmw) - Greek community server for planning and running MeshCore networks.
+
+#### Hungary
+
+- [MeshCore Hungary](https://meshcore.hu/) - Hungarian community on 868 MHz with map and Telegram group.
+
+#### Ireland
+
+- [LoRa Project Ireland](https://loraproject.ie/) - Island of Ireland off-grid messaging community.
+- [Mayo Mesh](https://mayomesh.net/#/) - County Mayo mesh radio user group.
+
+#### Italy
+
+- [LoRa Brescia](https://www.lorabrescia.it/) - Brescia group with Italian guides for flashing and configuring MeshCore repeaters; also covers Meshtastic and LoRa APRS.
+- [MeshCore ITA](https://meshcore-ita.github.io/) - Italian-language documentation: setup guide, the shared Italian radio preset, hardware, CLI reference, troubleshooting, FAQ and glossary.
+- [MeshCore ITA Telegram group](https://t.me/meshcore_ita) - Public group, per-region topics.
+- [MeshCore Italia](https://www.meshcoreitalia.it) - Nationwide Italian mesh on the EU/UK narrow preset, with map and Telegram group.
+- [MeshCore Repeater Guide Italia](https://codeberg.org/3yte/meshcore-italia) - Italian CLI guide for repeaters on the national mesh, with the regional scope tree and a [command wizard](https://3yte.codeberg.page/meshcore-italia/).
+
+#### Latvia
+
+- [Apraide.lv](https://apraide.lv/) - Latvian LoRa mesh community; also covers Meshtastic.
+
+#### Lithuania
+
+- [Atviras Tinklas](https://atvirastinklas.lt) - Lithuanian community with a CoreScope instance and Telegram group.
+
+#### Luxembourg
+
+- [MeshCore Luxembourg](https://www.meshcore.lu/) - Luxembourgish community page listing the associations running MeshCore infrastructure nationwide.
+
+#### Netherlands
+
+- [Dutch MeshCore](https://dutchmeshcore.nl/) - Dutch node directory and radio preset reference.
+- [LocalMesh Nederland](https://www.localmesh.nl/) - Dutch emergency network with setup guides.
+- [MeshCore Forum NL](https://forum.meshcore-net.nl/) - Dutch-language forum.
+- [MeshCore Nederland](https://www.meshcore.nl/) - Dutch national site.
+- [MeshWiki NL](https://meshwiki.nl/) - Collaborative Dutch documentation wiki.
+
+#### Norway
+
+- [MeshWiki.no](https://meshwiki.no/) - Norwegian documentation hub and preset reference.
+
+#### Poland
+
+- [LoRa MeshCore Polska](https://lorameshcore.pl/) - Nationwide Polish off-grid network on the EU/UK narrow preset.
+- [MeshCore Podlasie](https://meshcore.podlasie.pl/) - Hobbyist network in the Podlasie region, with news, settings and a forum.
+- [MeshCore Polska](https://meshcorepolska.org/) - Polish network coordination hub.
+- [MeshGo](https://meshgo.pl/) - Polish community hub.
+
+#### Portugal
+
+- [MeshCore Portugal](https://meshcore.pt/) - Portuguese community site.
+
+#### Romania
+
+- [Brașov Mesh](https://brasovmesh.com/) - Brașov network on the EU/UK narrow preset.
+- [MeshCore Iași](https://meshcore-iasi.ro/) - Iași network with a live dashboard.
+
+#### Russia
+
+- [MeshCore Krasnodar Telegram group](https://t.me/MeshCore_KRD) - Russian-language Krasnodar Krai community chat for MeshCore users.
+- [MeshCore Moscow](https://meshcoretel.ru/) - Moscow network with a live telemetry map.
+- [MeshCore Moscow Telegram group](https://t.me/meshcoremoscow) - Moscow community chat.
+- [MeshCore North Caucasus Telegram group](https://t.me/meshtastic_stv) - Russian-language regional community coordinated through the skmesh.ru dashboard.
+- [MeshCore Offline Network Telegram channel](https://t.me/MeshCore_offline_network) - Russian-language channel with news, guides, devices and firmware.
+- [MeshCore Rostov-on-Don Telegram group](https://t.me/Meshcore_Rostov_na_Donu) - Russian-language group for repeater setup, firmware and coverage maps.
+- [MeshCore Russian-language Telegram group](https://t.me/meshcore_rulang) - General Russian-language public for MeshCore, Meshtastic and Reticulum discussion.
+- [MeshCore Saint Petersburg](https://meshcore.spb.ru/wiki/) - City wiki with hardware, flashing and repeater guides, plus a Telegram group.
+
+#### Serbia
+
+- [meshcore.rs](https://meshcore.rs/) - Serbian-language node registry and live map for the regional MeshCore network.
+
+#### Slovakia
+
+- [MeshCore Slovensko](https://mesh.om3kff.sk/) - Slovak national mesh with map and Discord.
+
+#### Slovenia
+
+- [MeshCore Slovenija](https://meshcore.si/) - Slovenian community with the regional preset and firmware links.
+
+#### Spain
+
+- [MeshCore Catalunya](https://docs.livemap-meshcorecat.com/) - Catalonia community with live map and documentation.
+- [NomadMesh](https://nomadmesh.org/) - Alpujarra region community network.
+- [Red Sierra Sur](https://sierrasur.github.io/) - Jaén province network.
+- [RegionMesh España](https://www.regionmesh.com/es/) - Spanish-language community hub and guides.
+
+#### Sweden
+
+- [Meshat.se](https://meshcore.meshat.se/) - Swedish network map and resources.
+
+#### Switzerland
+
+- [MeshCore Switzerland](https://www.meshcore.ch/) - Swiss community site.
+
+#### Ukraine
+
+- [MeshCore Ukraine](https://meshcore-ua.net/) - Volunteer-run public mesh for resilient communication across Ukraine.
+
+#### United Kingdom
+
+- [IPNet](https://ipnt.uk/) - Ipswich hub with CoreScope dashboards and MQTT services.
+- [LocalMesh UK](https://localmesh.co.uk/) - UK emergency network with city communities.
+- [MeshCore Wales](https://meshcore.wales/) - Welsh regional settings and coordination.
+- [MeshHub UK](https://meshhub.uk/) - National coordination platform.
+- [NorthMesh](https://northmesh.co.uk/) - Northern England community network.
+- [ScotMesh](https://scotmesh.net/) - Scottish community tools.
+
+### North America
+
+#### Canada
+
+- [CascadiaMesh](https://cascadiamesh.org/) - Pacific Northwest network from Vancouver, BC through Washington and Oregon to Northern California, with a [Discord server](https://discord.gg/CnnDfER3Yt).
+- [Greater Ottawa Mesh](https://ottawamesh.ca/) - Ottawa community; also covers Meshtastic.
+- [MeshCore Canada](https://meshcore.ca/) - National site with provincial communities.
+- [Montreal Mesh](https://www.montrealmesh.ca/en/) - Montreal area MeshCore and Meshtastic community.
+- [Ridgeline Mesh](https://ridgeline.ve7kod.ca/) - Southwest British Columbia network on an alternate frequency to Salish Mesh.
+- [Salish Mesh](https://salishmesh.net/) - Salish Sea region of southwest British Columbia.
+
+#### United States
+
+- [Austin Mesh](https://www.austinmesh.org/) - Austin, Texas community.
+- [Bay Area MeshCore](https://bayareameshcore.org/) - San Francisco Bay Area network.
+- [Central Washington Hackers Discord](https://discord.gg/XFSA9f5kqM) - Central Washington State hacker community with MeshCore activity.
+- [Chicagoland Mesh](https://chicagolandmesh.org/) - Chicago-area MeshCore, Meshtastic and Reticulum community.
+- [Colorado MeshCore](https://meshcore.coloradomesh.org/) - Colorado community and guides.
+- [CT Mesh](https://ctmesh.org/) - Connecticut mesh technologies user group.
+- [Eastern US MeshCore](https://eastme.sh/) - Eastern states network.
+- [Florida Mesh](https://areyoumeshingwith.us/) - Florida-wide network run by amateur radio operators.
+- [Florida MeshCore](https://mc.flmesh.us/) - Statewide community network for Florida.
+- [Greater Boston Mesh](https://bostonme.sh/) - Boston-area community behind the Boston MeshCore MQTT dashboard.
+- [Gulf Coast Mesh](https://gulfcoastmesh.org) - Louisiana and US Gulf Coast network.
+- [Idaho Mesh](https://idahomesh.org) - Idaho network centred on the Treasure Valley.
+- [Inland NW Mesh](https://inlandnwmesh.org/) - Spokane, Coeur d'Alene, the Palouse and Lewiston/Clarkston.
+- [Kentucky Mesh](https://mesh-ky.org/) - Kentucky network; also covers Meshtastic.
+- [Lehigh Valley Mesh](https://lvmesh.com/) - Lehigh Valley and eastern Pennsylvania.
+- [Long Island Mesh](https://limesh.org/) - Long Island, New York network for MeshCore and Meshtastic.
+- [Madison Mesh](https://madmesh.net/) - Community-owned network in Madison, Wisconsin.
+- [Mesh America](https://meshamerica.com/) - Guides, wiki and network design articles.
+- [MeshCore Lexington](https://meshcorelexington.com/) - Lexington, Kentucky network.
+- [MeshCore TX](https://meshcoretx.net/) - Texas radio preset and repeater naming standard.
+- [MeshNY](https://nyme.sh/) - New York City community.
+- [MeshTexas](https://meshtexas.org/) - Statewide Texas network with a shared MQTT broker.
+- [Missouri Mesh](https://missourimesh.org/) - Missouri community; also covers Meshtastic.
+- [Mountain West Mesh](https://mwmesh.com/) - Utah, Idaho and Wyoming network.
+- [MSP Mesh](https://mspmesh.org/) - Minneapolis-Saint Paul and Greater Minnesota group.
+- [Nebraska Mesh](https://www.nebraskamesh.net/) - Statewide Nebraska network.
+- [Nevada Mesh](https://nvme.sh/) - Carson City, Reno and northern Nevada network.
+- [New England Mesh](https://nhmesh.com/) - New England-wide community across CT, MA, NH and ME.
+- [NodakMesh](https://nodakmesh.org/) - North Dakota community with wiki and guides.
+- [NTX Mesh](https://ntxmesh.com/) - Dallas-Fort Worth and greater North Texas.
+- [PhillyMesh](https://phillymesh.net/) - Philadelphia-area network and community.
+- [Pioneer Valley Mesh](https://pvmesh.org/) - Pioneer Valley of western Massachusetts.
+- [Puget Mesh](https://pugetmesh.org/) - Puget Sound region off-grid communication networks.
+- [RDUMesh](https://rdumesh.org/) - Raleigh, Durham and Chapel Hill network.
+- [RegionMesh](https://www.regionmesh.com/) - National hub with regional guides.
+- [Southern California MeshCore](https://socalmesh.org/) - Los Angeles area community with a public CoreScope instance.
+- [Spokane Mesh](https://www.spokanemesh.net/) - Spokane regional network.
+- [STMesh](https://www.stmesh.net/) - New York Southern Tier networks.
+- [TennMesh](https://tennmesh.com/) - Tennessee network community.
+- [Upstate Mesh](https://www.upst8me.sh/) - New York Capital District community.
+- [West Coast Mesh](https://www.wcmesh.com/) - West Coast community hub and coordination.
+- [WNY MeshCore](https://wnymeshcore.org/) - Western New York communication backbone.
+
+### Oceania
+
+#### Australia
+
+- [EastMesh Australia](https://eastmesh.au/) - Eastern Australia community.
+- [Mesh Brisbane User Group wiki](https://wiki.mbug.com.au/en/Meshcore/Settings) - Brisbane and South East Queensland settings.
+- [MeshCore AUS wiki](https://wiki.meshcoreaus.org/) - Australian community documentation.
+- [MeshSydney](https://meshsydney.com/) - Sydney configuration and coordination.
+- [NSW Mesh](https://nswmesh.au/) - Sydney and New South Wales network with a community knowledge base.
+- [Perth MeshCore](https://perth.meshcore.au/) - Western Australia network.
+
+#### New Zealand
+
+- [Meshed](https://meshed.kiwi/) - New Zealand community network.
+
+### South America
+
+#### Argentina
+
+- [Mesh Argentina](https://mesharg.com.ar/) - Argentine community covering Meshtastic, MeshCore and Reticulum mesh networks.
+
+#### Brazil
+
+- [Mesh Sorocaba](https://www.meshsorocaba.org/) - Portuguese-language guides and community.
+- [MeshCore Brasil Telegram group](https://t.me/meshcorebrasil) - Brazilian community chat.
+
+#### Chile
+
+- [MeshChile](https://meshchile.cl/) - Chilean community with MeshCore guides, Discord and a [GitHub org](https://github.com/Mesh-Chile).
+
+<a id="home-button" href="#contents">Home</a>
+
+<script>
+document.querySelectorAll('a[href]').forEach(function (a) {
+  if (a.getAttribute('href').charAt(0) === '#') return;
+  a.target = '_blank';
+  a.rel = 'noopener noreferrer';
+});
+</script>
