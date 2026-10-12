@@ -249,13 +249,6 @@ Open designs with published files (PCB, BOM, STL or detailed build guide).
 | [InkCore](https://codeberg.org/todd-herbert/InkCore) | AI-free BLE-companion firmware for small e-paper devices with configurable applets. Hosted on Codeberg, so no GitHub stars. |
 | [MeshUltra](https://tdeck.ubnzeek.com/) 🔒 | **LilyGo T-Deck, T-Deck+.** Firmware for both devices. Closed source, so no repo to star. |
 
-## Notes
-
-- Sorted by star counts read from each GitHub repo page on 9 October 2026. The badges are live, so counts may drift from this order over time.
-- Ties keep the original table order.
-- Trail Mate (545) is the only clear standout; most of the list is under 50 stars. Stars track visibility more than quality, so check recent commits before flashing anything.
-- The pasted table ended with a corrupted fragment mentioning SolarMeshtasticNodeMini, which is not firmware and was already covered in the previous list (9 stars). I dropped it.
-
 ### Flashing and Updating
 
 | Project Name | Description |
