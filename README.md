@@ -23,7 +23,7 @@ sensor networks.
 
 ---
 
-## Official Resources
+##  Resources
 
 - [MeshCore.io](https://meshcore.io/) - The official homepage.
 - [Documentation](https://docs.meshcore.io/) - Official docs.
@@ -41,7 +41,6 @@ sensor networks.
 - [Reddit r/meshcore](https://www.reddit.com/r/meshcore/) 
 - [Facebook group](https://www.facebook.com/groups/meshcore)
 - [Mastodon](https://mastodon.social/@meshcore)
-- [YouTube](https://www.youtube.com/@meshcore-official)
 - [X](https://x.com/mesh_core) 
 
 ## Communites
