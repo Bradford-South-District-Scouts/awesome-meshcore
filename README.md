@@ -710,6 +710,7 @@ Tools to see what is happening on the mesh.
 - [Colorado MeshCore](https://meshcore.coloradomesh.org/) - Colorado community and guides.
 - [CT Mesh](https://ctmesh.org/) - Connecticut mesh technologies user group.
 - [Eastern US MeshCore](https://eastme.sh/) - Eastern states network.
+- [Emerald Coast Mesh](https://ecmesh.us/) - Mesh community along the Emerald Coast in the Florida panhandle.
 - [Florida Mesh](https://areyoumeshingwith.us/) - Florida-wide network run by amateur radio operators.
 - [Florida MeshCore](https://mc.flmesh.us/) - Statewide community network for Florida.
 - [Greater Boston Mesh](https://bostonme.sh/) - Boston-area community behind the Boston MeshCore MQTT dashboard.
