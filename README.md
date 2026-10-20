@@ -19,10 +19,6 @@ sensor networks.
 | [Utilities](#utilities) | [Libraries and SDKs](#libraries-and-sdks) · [Integrations and Bots](#integrations-and-bots) · [Self-Hosted Dashboards](#self-hosted-dashboards) · [Packet Analysis](#packet-analysis) · [Miscellaneous](#miscellaneous) |
 | [Guides and Learning](#guides-and-learning) | |
 
-> Apps and firmware marked 🔒 are closed source.
-
----
-
 ##  Resources
 
 - [MeshCore.io](https://meshcore.io/) - The official homepage.
@@ -179,6 +175,8 @@ Open designs with published files (PCB, BOM, STL or detailed build guide).
 | [meshcore-webui](https://github.com/adradr/meshcore-webui) ![GitHub Repo stars](https://img.shields.io/github/stars/adradr/meshcore-webui?style=social)<br>![GitHub last commit](https://img.shields.io/github/last-commit/adradr/meshcore-webui) | Web UI for managing devices and chatting on the mesh. |
 | [MeshCore Companion](https://github.com/edleeman17/meshcore-companion) ![GitHub Repo stars](https://img.shields.io/github/stars/edleeman17/meshcore-companion?style=social)<br>![GitHub last commit](https://img.shields.io/github/last-commit/edleeman17/meshcore-companion) | Self-hosted web client with signal diagnostics, an antenna placement mode, and signed channel posts to catch name spoofing. |
 | [meshcore-web (aXistem)](https://github.com/aXistem-dev/meshcore-web) ![GitHub Repo stars](https://img.shields.io/github/stars/aXistem-dev/meshcore-web?style=social)<br>![GitHub last commit](https://img.shields.io/github/last-commit/aXistem-dev/meshcore-web) | Docker-ready browser build of the companion app over BLE or USB; image `ghcr.io/axistem-dev/meshcore-web`. |
+| [MeshConsole](https://github.com/m9wav/MeshConsole) ![GitHub Repo stars](https://img.shields.io/github/stars/m9wav/MeshConsole?style=social) | Web interface and CLI for MeshCore and Meshtastic devices. |
+| [meshcore-web (Vue)](https://github.com/liamcottle/meshcore-web) ![GitHub Repo stars](https://img.shields.io/github/stars/liamcottle/meshcore-web?style=social) | Early Vue web client, superseded by the official app. |
 | [Official web app](https://app.meshcore.io/) 🔒 | Browser build of the official companion app. |
 
 ### Terminal
@@ -191,6 +189,7 @@ Open designs with published files (PCB, BOM, STL or detailed build guide).
 | [QTC](https://github.com/initsixdev/QTC) ![GitHub Repo stars](https://img.shields.io/github/stars/initsixdev/QTC?style=social)<br>![GitHub last commit](https://img.shields.io/github/last-commit/initsixdev/QTC) | Old-school terminal client for Linux and macOS. |
 | [MeshChaTUI](https://github.com/g-d-j-evans/MeschaTUI) ![GitHub Repo stars](https://img.shields.io/github/stars/g-d-j-evans/MeschaTUI?style=social)<br>![GitHub last commit](https://img.shields.io/github/last-commit/g-d-j-evans/MeschaTUI) | Textual terminal client for Linux with delivery confirmation over serial or BLE. |
 | [Remote Terminal for MeshCore](https://github.com/MichTronics/Remote-Terminal-for-MeshCore) ![GitHub Repo stars](https://img.shields.io/github/stars/MichTronics/Remote-Terminal-for-MeshCore?style=social)<br>![GitHub last commit](https://img.shields.io/github/last-commit/MichTronics/Remote-Terminal-for-MeshCore) | Remote terminal for repeaters with packet capture and MQTT. |
+| [meshssi](https://github.com/dmellok/meshssi) ![GitHub Repo stars](https://img.shields.io/github/stars/dmellok/meshssi?style=social) | irssi-style terminal client with chat, packet monitor, map and repeater administration. |
 
 ### Other Platforms
 
@@ -335,6 +334,8 @@ Open designs with published files (PCB, BOM, STL or detailed build guide).
 | [MeshRes](https://github.com/bryantkelley/MeshRes) ![GitHub Repo stars](https://img.shields.io/github/stars/bryantkelley/MeshRes?style=social)<br>![Last updated](https://img.shields.io/github/last-commit/bryantkelley/MeshRes?label=last%20updated) | — | Streams mesh messages into the Resonite social VR platform. |
 | [Spectra](https://forge.hackers.town/Wrewdison/Spectra) | — | Rust bridge from MeshCore or Meshtastic radios to the Veilid DHT. |
 | [Supply Drop BBS](https://supplydrop.meshamerica.com/) 🔒 | — | Rust BBS for Raspberry Pi with MeshCore and Meshtastic bridges and a plugin system for other transports. |
+| [meshcore-bbs](https://github.com/shermozle/meshcore-bbs) ![GitHub Repo stars](https://img.shields.io/github/stars/shermozle/meshcore-bbs?style=social) | — | BBS accessible via direct messages. |
+| [SpamGuard for openHop](https://github.com/flackrat/openhop-spamguard) ![GitHub Repo stars](https://img.shields.io/github/stars/flackrat/openhop-spamguard?style=social) | — | Channel spam filter for openHop Repeater that spots spam campaigns and blocks the repeater they enter through. |
 
 ## Self-Hosted Dashboards
 
@@ -405,6 +406,8 @@ Tools to see what is happening on the mesh.
 
 | Project / URL | Description |
 | :--- | :--- |
+| [mapme.sh](https://mapme.sh/) | Crowdsourced coverage mapping with companion wardriving apps. |
+| [MeshCore Map](https://map.meshcore.io/) | Official global map displaying static user uploads for repeaters and room servers. |
 | [#BEmesh map](https://meshmap.radio-actief.be/) | Belgian map with network stats and a configurator. |
 | [Czech coverage map](https://pokryti.meshcore.cz/) | Czech coverage with terrain-aware planning. |
 | [Greece CoreScope map](https://meshcore-greece.up.railway.app/#/live) | Live CoreScope instance for the Greek network. |
@@ -417,10 +420,7 @@ Tools to see what is happening on the mesh.
 | [LocalMesh Netherlands map](https://localmesh.nl/en/map/) | Dutch network coverage. |
 | [LoraMesh France map](https://loramesh.fr/carte/) | French coverage by region. |
 | [m3sh.uk Map](https://m3sh.uk/contacts/) | UK network as seen from Oxfordshire. |
-| [~map.meshradio.uk~](https://map.meshradio.uk/) | **[Offline]** Network analysis and visualization tool for the UK MeshRadio community. |
-| [mapme.sh](https://mapme.sh/) | Crowdsourced coverage mapping with companion wardriving apps. |
 | [MeshCore Europe map](https://meshcoreeurope.org/en/map/) | European repeater and room server coverage. |
-| [MeshCore Map](https://map.meshcore.io/) | Official global map displaying static user uploads for repeaters and room servers. |
 | [MeshCore Polska map](https://mapa.meshcorepolska.org/) | Polish clients, repeaters, room servers and sensors. |
 | [MeshCore-de.fyi region map](https://umap.openstreetmap.de/en/map/meshcore-defyi_130650) | Editable uMap of regions, mainly Germany. See also [region-editing context](https://meshcore-de.fyi/meshcore:allgemeines:regions:reale-regions-in-repeatern) and [how to edit](https://meshcore-de.fyi/region_karte). |
 | [MeshMapper](https://meshmapper.net/) | Wardriving coverage platform with regional instances and an open API. |
@@ -442,6 +442,9 @@ Tools to see what is happening on the mesh.
 | [Meshcoretel.io](https://meshcoretel.io/) | Public telemetry: live packet map, propagation trees, link load, wardrive coverage, region/mesh selection, node and observer directories, stats dashboards, channels view, prefix explorer. |
 | [MeshRank](https://meshrank.net/) | Leaderboard and analytics for repeaters and routes, mainly in the UK. |
 | [TennMesh Live](https://live.tennmesh.com/) | Tennessee telemetry with RF link analysis and routing loop detection. |
+| [MeshCore Analyzer (CZ)](https://analyzer.meshcore.cz/) | Czech instance with live packet visualisation, node tracking and route analysis. |
+| [MeshcoreNetz.de](https://analyzer.meshcorenetz.de/) | German overview of open-channel messages with observer and hop counts. |
+| [MeshStat](https://meshstat.com/) | Live packet visualisation, node tracking, channel decryption and route analysis. |
 
 ### RF Planning
 
@@ -487,6 +490,9 @@ Tools to see what is happening on the mesh.
 | [LilyGo MeshCore guide (Chinese)](https://wiki.lilygo.cc/zh/open-source/meshcore/) | Chinese-language official guide covering supported devices, roles and firmware flashing. |
 | [MeshCore QuickStart (The Comms Channel)](https://www.youtube.com/playlist?list=PLshzThxhw4O4WU_iZo3NmNZOv6KMrUuF9) | Nine-part video series walking through initial MeshCore setup. |
 | [Seeed Studio ESP32 MeshCore guide (Chinese)](https://wiki.seeedstudio.com/cn/get_started_with_esp32s3_meshcore/) | Chinese-language guide for flashing and configuring the XIAO ESP32S3 repeater. |
+| [MeshCore Observer MQTT bridge docs](https://observer.gessaman.com/docs) | Setting up repeaters to uplink packet data to multiple MQTT brokers. |
+| [MeshMapper Wiki](https://wiki.meshmapper.net/) | Getting started, FAQ and app overview for the MeshMapper wardriving app. |
+| [The MeshCore Map](https://blog.meshcore.io/2026/04/04/meshcore-map) | Official blog post on how the node map works. |
 
 
 ## Communities
